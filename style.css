@@ -1,0 +1,51 @@
+body
+{
+	background-color: #eeeeee;
+}
+
+footer
+{
+	border: 3px #dddddd solid; 
+	background-color: #dddddd;
+	font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: sans-serif;
+	color: #333333;
+}
+
+
+a
+{
+	color: #608c00
+}
+
+#italic
+{
+	font-style: italic;
+}
+
+#bold
+{
+	font-weight: bold;
+	color: #555555;
+	font-family: sans-serif;
+}
+
+#body_text
+{
+	color: #666666;
+	font-family: sans-serif;
+}
+
+#align_right
+{
+	text-align: right;
+}
+
+#bottom_border
+{
+	border-bottom: #CCCCCC dotted 
+}
