@@ -12,7 +12,7 @@ footer
 
 h1, h2, h3, h4, h5, h6
 {
-	font-family: sans-serif;
+	font-family: verdana;
 	color: #333333;
 }
 
@@ -43,6 +43,7 @@ a
 #align_right
 {
 	text-align: right;
+	font-family: sans-serif;
 }
 
 #bottom_border
