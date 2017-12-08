@@ -1,0 +1,232 @@
+body
+{
+	width: 960px!important;
+	margin: auto; 
+	font-family: garamond; 
+}
+
+
+#topimg
+{
+	height: 88px;
+	display: block;
+	margin: auto;
+	margin-top: 44px
+}
+
+.fred
+{
+	width: 20%;
+	float: left;
+	margin: 0;
+	height: 110px;
+	
+}
+
+.section 
+{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 66px;
+	
+}
+
+#avatar
+{
+	height: 110px;
+	margin-right: 25px;
+}
+.80%
+{
+	display: flex;
+	flex-direction: column;
+	height: 110px;
+}
+
+.txt
+{
+	height: 88px;
+	margin: 0px;
+	font-size: 1.2em;
+}
+.icons
+{
+	height: 44px;
+	display: flex;
+	align-items: center;
+}
+.icon
+{
+	margin-right: 20px;
+	height: 25px;
+}
+
+.tri
+{
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 88px;
+}
+.secte
+{
+	width: 96%;
+	border: 1px solid #CCC;
+	padding: 6px;
+}
+
+section
+{
+	width: 33.333%;
+	float: left;
+}
+
+#sale
+{
+	font-style: italic;
+	color: #CCC;
+}
+
+div section figcaption
+{
+	height: 66px;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+ul {
+	 height:44px;
+	 margin-bottom: 88px;
+	 padding: 0px;
+	 margin: auto;
+	 list-style-type:none;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 border-top: solid #CCC;
+	 border-bottom: solid #CCC;
+	 border-width: 2px;
+	}
+
+
+#topli
+{
+	margin-left: 22px;
+	font-size: 22px;
+	display: block;
+	float: left;
+	padding: 5px;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+#home
+{
+	height: 22px;
+	width: 25px;
+}
+
+h1
+{
+	margin-top: 88px;
+	height: 132px;
+	font-size: 5em;
+}
+#red
+{
+	height: 22px;
+	margin-top: 0px;
+	margin-bottom: 44px;
+	font-family: garamond;
+	font-size: 18px;
+}
+#orange
+{
+	height: 44px;
+	margin-top: 0px;
+}
+
+#watch
+{
+	width: 960px;
+}
+
+#italic
+{
+	font-style: italic;
+}
+#bold
+{
+	font-weight: bold;
+}
+#caption
+{
+	font-style: italic;
+	color: #CCC;
+}
+#par1
+{
+	height: 308px;
+	font-size: 2.3em;
+	margin-top: 44px;
+	margin-bottom: 44px;
+}
+#par2
+{
+	height: 308px;
+	font-size: 2.3em;
+	margin-bottom: 44px;
+	border-bottom: solid #CCC;
+	border-width: 2px;
+}
+
+#cook
+{
+	width: 132px;
+	height: 132px;
+	float: right;
+}
+
+#cooking
+{
+	width: 132px;
+	height: 132px;
+	float: right;
+	border: 1px solid #CCC ;
+	padding: 5px;
+	
+}
+
+#bordure
+{
+	height: 0px;
+	border-bottom: 4px solid #CCC
+}
+
+h2
+{
+	margin-top: 66px;
+	margin-bottom: 22px;
+	height: 44px;
+}
+
+footer
+{
+	height: 22px;
+
+}
+
+footer ul 
+{
+	display: flex; 
+	border-top: 6px solid #CCC;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 10px;
+}
+
+footer ul li
+{
+	display: flex; 
+	margin-left: 25px;
+}

@@ -1,0 +1,102 @@
+body
+{
+	width: 960px!important;
+	margin: auto; 
+	font-family: garamond; 
+}
+
+header
+{
+	padding-top: 16px;
+}
+
+#topimg
+{
+	width: 30%;
+}
+
+.secte
+{
+	width: 96%;
+	height: 280px;
+	clear: left;
+}
+
+button
+{
+	width: 48%;
+	margin-left: 11px;
+	margin-top: 44px;
+}
+
+ul {
+	 height:44px;
+	 padding: 0px;
+	 margin: auto;
+	 list-style-type:none;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 float: right;
+	 margin: 66px;
+	 font-weight: bold;
+	}
+
+#topli
+{
+	margin-left: 20px;
+
+}
+
+#overflow
+{
+	overflow: hidden;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	
+}
+
+
+section
+{
+	float: left;
+	width: 33.333%;
+}
+
+footer
+{
+	background-color: #CCC;
+	border: grey double;
+}
+
+@media (max-width: 960px){
+	
+	ul 
+	{
+		float: none;
+	}
+	body
+	{
+		width: 320px!important;
+		margin: auto; 
+		font-family: garamond; 
+	}
+
+	section
+	{
+		float: left;
+		width: 320px;
+	}
+	button
+	{
+		width: 320px;
+
+	}
+	.secte
+	{
+		width: 100%;
+
+	}
+}
